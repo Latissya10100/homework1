@@ -1,0 +1,52 @@
+#hero {
+  background: url(http://www.flowerwallpapers.org/wallpapers/image/Beautiful%20Flower%20Wallpaper.jpg) no-repeat top left;
+  color:#4248f4;
+  text-align: center;
+  height: 400px;
+  padding: 25px 0;
+  background-size: cover;
+}
+#hero img {
+  width:150px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+body {
+    padding-top: 70px;
+}
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #fafafa;
+    border-bottom: 2px solid #ccc;
+    height: 70px;
+    width: 100%;
+}
+nav li {
+    float: left;
+    width: auto;
+}
+nav li a {
+    padding: 25px 10px;
+    display: block;
+}
+#brand {
+    color: transparent;
+    background: url(http://image.shutterstock.com/z/stock-photo-small-purple-flowers-field-for-a-background-3177062.jpg) no-repeat top left;
+    height: 60px;
+    width: 60px;
+    float: left;
+    margin: 5px;
+} 
+nav ul {
+    float: right;
+    width: auto;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
