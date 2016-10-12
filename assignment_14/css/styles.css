@@ -1,0 +1,86 @@
+body {
+	background: AntiqueWhite;
+}
+h1 {
+	font-family: Verdana;
+	color: SaddleBrown;
+	text-align: center;
+	text-decoration: underline;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+h3 {
+	font-family: Verdana;
+	color: SaddleBrown;
+	text-align: center;
+	text-decoration: underline;
+}
+p{
+	font-family: Verdana;
+	color: SaddleBrown;
+}
+footer {
+	font-family: Verdana;
+	color: SaddleBrown;
+	font-size: 70%;
+	text-align: center;
+	padding: 1em;
+}
+#logo {	
+	border: AntiqueWhite 1px solid;	
+	border-radius: 15px;
+	width:45px;
+	height: 40px;
+	display: inline-block;
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+}
+#nav-wrapper {
+	width:465px;
+	margin:0 auto;
+	padding: 20px 0;
+	background:#3D3331;
+}
+#nav {
+	font-family: Gil Sans, Verdana;
+	font-size: 14px;
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
+	width: 455px;
+	overflow: auto;
+}
+li a {
+	text-decoration: none;
+	padding: 5px 21px;
+	background: #5F3222;
+	color: AntiqueWhite;
+	float:left;
+	text-align: center;
+	border-top: 2px solid #815444;
+	border-right: 2px solid #3d1000;
+	border-bottom: 2px solid #3d1000;
+	border-left: 2px solid #815444;
+}
+li a:hover {
+	background: #a37666;
+	color: Black;
+	border-top: 2px solid #815444;
+	border-right: 2px solid #c59888;
+	border-bottom: 2px solid #c59888;
+	border-left: 2px solid #815444;
+}
+#setup {
+	text-align: center;
+	background: saddlebrown;
+	padding: 10px;
+}
+.snap {
+	display: inline-block;
+	border-radius: 15px;
+	height: 300px;
+	max-width: 50%;
+	margin: 0 auto;
+	padding: 5px;
+}
