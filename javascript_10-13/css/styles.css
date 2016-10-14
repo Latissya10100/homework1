@@ -1,0 +1,26 @@
+body {
+	background: darkkhaki;
+}
+h1 {
+	font-family: Helvetica;
+	text-decoration: underline;
+	text-align: center;
+}
+p {
+	font-family: Helvetica;
+	font-size: 16px;
+	color: mediumblue;
+	text-align: center;
+}
+#sheik {
+	text-align: center;
+	padding: 10px;
+}
+.funk {
+	border: 2px solid;
+	border-radius: 50%;
+	color: antiquewhite;
+	transform: rotate(30deg);
+	padding: 5px;
+	max-width: 275px;
+}
