@@ -1,0 +1,18 @@
+h1{
+	font-family:"Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+h2{
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+h4 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+}p {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+#orders{
+	background: #5042f4;
+	border:#000000;
+	border-radius:10px;
+	list-style-type: none;
+	padding: 2em;
+}
