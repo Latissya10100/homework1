@@ -1,18 +1,49 @@
+body {
+	background: #f0f8ff;
+}
 h1{
 	font-family:"Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+	color: #696969;
 }
 h2{
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color: #696969;
 }
 h4 {
 	font-family: Georgia, Times, "Times New Roman", serif;
-}p {
-	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	color: #696969;
 }
-#orders{
+p {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	color: #696969;
+	font-style: italic;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-color: #deb887;
+	border-style: solid;
+	border-width: 15px;
+	height: 15em;
+}
+li {
 	background: #5042f4;
 	border:#000000;
 	border-radius:10px;
+	color: #deb887;
 	list-style-type: none;
-	padding: 2em;
+	margin-bottom: 5px;
+	padding: 1em;
+	width: 25em;
+}
+#add-order {
+	background: #deb887;
+	border-radius: 5px;
+	border-color: #5042f4;
+	color: #5042f4;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	padding: 0 1em;
 }
