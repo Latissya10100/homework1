@@ -1,11 +1,11 @@
 body {
-	background: #f0f8ff;
+	background: #fff8dc;
 }
-h1{
+h1 {
 	font-family:"Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	color: #696969;
 }
-h2{
+h2 {
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	color: #696969;
 }
@@ -28,10 +28,10 @@ img {
 	height: 15em;
 }
 li {
-	background: #5042f4;
+	background: #cd853f;
 	border:#000000;
 	border-radius:10px;
-	color: #deb887;
+	color: #f8f8ff;
 	list-style-type: none;
 	margin-bottom: 5px;
 	padding: 1em;
